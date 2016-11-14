@@ -1,0 +1,9 @@
+
+body {
+    background:black;
+}
+#game {
+    cursor: url(cursor/anime.cur), auto;
+    width: 1100px;
+    margin: 0 auto;
+}
